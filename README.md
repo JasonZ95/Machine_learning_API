@@ -41,3 +41,9 @@ By running __training.py__,we can start the trainning process. In this program, 
 
 ## Result
 According to the test result, the model can successfully recognize the difference of cats and dogs. But there are some situations that it failed to recognize it. I consider that the main reason is that the training set is small. I tried several times with different training steps to get a better result and finally get a idealized result by training in 4k steps with 64 images per batch.
+
+<img src= "https://github.com/JasonZ95/Machine_learning_API/blob/master/0d82bf2b2cded83203edf2b5236b32f.jpg" />
+<img src= "https://github.com/JasonZ95/Machine_learning_API/blob/master/30d0bb2cc2de381102d08140f2333fc.png" />
+<img src= "https://github.com/JasonZ95/Machine_learning_API/blob/master/397599579527309947.jpg" />
+<img src= "https://github.com/JasonZ95/Machine_learning_API/blob/master/a75aa22366e33b7ad545c341b7fda58.png" />
+
